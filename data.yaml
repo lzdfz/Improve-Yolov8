@@ -1,0 +1,8 @@
+train: E:\CVProgram\YOLOv8Detect\datasets\OnlyCarData\datasets\train
+val: E:\CVProgram\YOLOv8Detect\datasets\OnlyCarData\datasets\val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['car']
